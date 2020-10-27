@@ -1,0 +1,52 @@
+======================	OOPs principal	=========================
+https://javarevisited.blogspot.com/2017/04/difference-between-abstraction-and-encapsulation-in-java-oop.html
+https://javarevisited.blogspot.com/2013/06/why-favor-composition-over-inheritance-java-oops-design.html
+
+=====================	association-vs-composition-vs-aggregation	==========================
+https://javarevisited.blogspot.com/2014/02/ifference-between-association-vs-composition-vs-aggregation.html
+
+==========	Serialization Corner cases	================================
+https://medium.com/javarevisited/complete-guide-to-serialization-in-java-44b36032157
+https://www.geeksforgeeks.org/object-serialization-inheritance-java
+https://dzone.com/articles/serialization-amp-de-serialization-in-java
+
+==================	Spring	===================================
+https://www.edureka.co/blog/interview-questions/spring-interview-questions
+https://dzone.com/articles/an-interview-question-on-spring-singletons
+https://www.logicbig.com/tutorials/spring-framework/spring-core/using-lookup-method.html
+https://www.baeldung.com/circular-dependencies-in-spring
+https://dzone.com/articles/spring-transaction-management
+
+================	cloud	========================
+https://microservices.io
+https://dzone.com/articles/microservices-with-cqrs-and-event-sourcing
+https://dzone.com/articles/introduction-to-event-sourcing
+https://dzone.com/articles/concepts-of-cqrs
+
+==========	Data Structure ======================================
+https://www.geeksforgeeks.org/top-20-linked-list-interview-question/
+https://javaconceptoftheday.com/java-array-interview-programs/
+
+=========	Oauth2	=======================
+https://dzone.com/articles/securing-rest-services-with-oauth2-in-springboot-1
+
+========	Mockito	======================
+https://howtodoinjava.com/mockito/mockito-mock-injectmocks/
+https://www.softwaretestinghelp.com/mock-private-static-void-methods-mockito/
+
+======== 	GIT	================================================
+https://davidzych.com/difference-between-git-reset-soft-mixed-and-hard/
+https://www.edureka.co/blog/interview-questions/git-interview-questions/
+
+========	Miscellenious of java	======================
+https://www.geeksforgeeks.org/understanding-outofmemoryerror-exception-java/
+
+=========	Thread		===================================
+https://www.callicoder.com/java-8-completablefuture-tutorial/
+https://howtodoinjava.com/java/multi-threading/restart-thread-uncaughtexceptionhandler/
+
+=========	Hibernate	===================================
+https://dzone.com/articles/performance-improvement-in-java-applications-orm-j
+
+
+
